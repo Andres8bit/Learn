@@ -1,1 +1,5 @@
-# Learn is the name of my personal programming language. Designed as a way to explore the creation of programming Language specificatin. It is designed as a Language that is simply to pick up for first time programmers. With a focuse on reienforcing good memory management habits, while being simpled and paired down enough to be quick to pick up and explore.
+# Learn is the name of my personal programming language. 
+Designed as a way to explore the creation of a programming Language specification.
+It is designed With a focus on reinforcing good memory management habits, 
+while being simple and paired down enough to be quick to pick up and explore for first time programmers.   
+While still providing plenty of flexabilty for large projects.
